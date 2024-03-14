@@ -1,6 +1,6 @@
 {
   "name": "s3-image-upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a package which helps us upload images directly to our s3 bucket",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "url": "https://github.com/ompatil19/s3-image-upload/issues"
   },
   "homepage": "https://github.com/ompatil19/s3-image-upload#readme",
-  "type": "module"  ,
+  "type": "module",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.533.0"
   }
